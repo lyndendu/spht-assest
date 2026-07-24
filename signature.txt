@@ -1,0 +1,25 @@
+<table style="font-family: Arial, Helvetica, sans-serif; width: 680px; color: rgb(34, 34, 34);" class=" __aliyun_node_has_color" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="padding: 30px 35px; border-right: 1px solid rgb(204, 204, 204);" align="center" valign="middle" width="220"><img style="margin: 0px auto 18px; vertical-align: bottom;" src="https://raw.githubusercontent.com/lyndendu/spht-assest/refs/heads/main/logo.png" width="95" data-alimail-img-processed-sqm-editor="true"><div style="font-size: 18px; font-weight: 700; line-height: 23px; color: rgb(17, 17, 17);" class=" __aliyun_node_has_color">
+South Pacific<br>
+Holiday Tour
+</div><div style="font-size: 12px; font-style: italic; color: rgb(119, 119, 119); margin-top: 12px;" class=" __aliyun_node_has_color">
+Your Journey, Our Commitment.
+</div></td><td style="padding: 30px 40px;" valign="middle"><div style="font-size: 27px; font-weight: 700; color: rgb(17, 17, 17); line-height: 34px; margin-bottom: 5px;" class=" __aliyun_node_has_color">
+Lily Chen
+</div><div style="font-size: 15px; color: rgb(102, 102, 102); margin-bottom: 2px;" class=" __aliyun_node_has_color">
+Business Development Manager
+</div><div style="clear: both;"><br></div><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="font-size: 14px; font-weight: 700; padding-bottom: 12px;" width="110">
+E-mail
+</td><td style="font-size: 14px; padding-bottom: 12px;">
+info@spht.co.nz
+</td></tr><tr><td style="font-size: 14px; font-weight: 700; padding-bottom: 12px;">
+Phone
+</td><td style="font-size: 14px; padding-bottom: 12px;">
++64 022 188 1419
+</td></tr><tr><td style="font-size: 14px; font-weight: 700;" valign="top">
+Address
+</td><td style="font-size: 14px; line-height: 22px;">
+34 Davaar Broomfield,<br>
+Christchurch 8042,<br>
+New Zealand
+</td></tr><tr><td></td><td style="padding-top: 16px;"><a style="font-size: 14px; color: rgb(17, 17, 17); text-decoration: underline;" class=" __aliyun_node_has_color" href="https://www.spht.co.nz" target="_blank">spht.co.nz
+</a></td></tr></tbody></table></td></tr></tbody></table>
